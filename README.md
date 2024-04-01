@@ -21,13 +21,18 @@
 ## Project Lead:
 Derek Moore | @web-learning
 
-## This openbadge page is so that I can share how I 
-* Created a light weight badge usining CSS
-* Inserted the data expressed in JSON into the light weight badge  
+## This openbadge page is to document my process 
+
+|  🗃️     |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
+| :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
+| 01 | Created a light weight badge |  | | 
+| 02 | Created JSON files to capture badge information |  | | 
+| 03 | Insert the data expressed in the JSON file into the light weight badge |  | | 
+
+
+   
 
 ## Credits
 
-The CSS used to create the badges  
-"How to Create and Issue Open Badges"
-Available at 
-https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/
+The CSS used to create the light weight badges is made by Bryan Fillmer (https://codepen.io/bfillmer/pen/rNWWBz)
+The JSON instructions is explaned in "How to Create and Issue Open Badges" - https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/
