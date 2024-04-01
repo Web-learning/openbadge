@@ -21,7 +21,7 @@
 * Badge issuing systems have expensive subscription models
 * Badge backpacka arenot available for those to be stored on in South Africa (as far as I know) and other african countries 
 
-## 3 Project Lead:
+## 3 Project Participants:
 Derek Moore | @web-learning
 
 ## 4 This openbadge page is to document my process 
@@ -37,5 +37,5 @@ Derek Moore | @web-learning
 
 ## 5 Credits and License
 
-The CSS used to create the light weight badges is made by Bryan Fillmer (https://codepen.io/bfillmer/pen/rNWWBz)
-The JSON instructions is explaned in "How to Create and Issue Open Badges" - https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/
+The CSS used to create the light weight badges is made by Bryan Fillmer (https://codepen.io/bfillmer) See original (https://codepen.io/bfillmer/pen/rNWWBz) Where permissions are expressed 
+The JSON instructions is explaned in "How to Create and Issue Open Badges" - https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/ | CC BY NC SA https://thejeshgn.com/terms-and-conditions/ 
