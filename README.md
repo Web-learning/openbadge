@@ -27,7 +27,7 @@ Derek Moore | @web-learning
 
 |  🗃️     |              Step /  Link              |                       Concepts Taught                       |                     Development Goal                 |                             
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 01 | Light weight badge created with CSS | Bryan Fillmer has a great example https://codepen.io/bfillmer/pen/rNWWBz | A lightweight badge that can be modified | 
+| 01 | Light weight badge created with CSS | Bryan Fillmer has a great example https://codepen.io/bfillmer/pen/rNWWBz. I also got CHAT GPT to help me out https://codepen.io/Web-learning-the-bold/pen/OJGjGaG | A lightweight badge that can be modified | 
 | 02 | JSON files that capture badge information | WebDevSimplified has got a good primer on YouTube  | To fetch in data from a separate json file www.webdevsimplified.com | 
 | 03 | Go recursivly through the whole JSON file into the light weight badge |  | | 
 
