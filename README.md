@@ -3,10 +3,10 @@
 
   Instructions:
 
-  1. Add your project title in the Title field above ^
-  2. Insert Relevant badges
-  3. Add your GitHub username (and your teammates) below 
-  4 Add a short description of the project (2, 3 sentences max.)
+  1. Add your project title. Make sure it matches the above name ##
+  2. Insert Vision Statement > 
+  3. Add your GitHub username (and your teammates) 
+  4 Add a short bullet point rational for the project (2, 3 bullets max.)
   --->
 
 
@@ -17,6 +17,9 @@
 * Open Badges do not serve the majority world. 
 * Badge issuing systems have expensive subscription models
 * Badge backpacka arenot available for those to be stored on in South Africa (as far as I know) and other african countries 
+
+## Project Lead:
+Derek Moore | @web-learning
 
 ## This openbadge page is so that I can share how I 
 * Created a light weight badge usining CSS
