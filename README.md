@@ -36,5 +36,17 @@ Derek Moore | @web-learning
 
 ## 5 Credits and License
 
-The CSS used to create the light weight badges is made by Bryan Fillmer (https://codepen.io/bfillmer) See original (https://codepen.io/bfillmer/pen/rNWWBz) Where permissions are expressed 
-The JSON instructions is explaned in "How to Create and Issue Open Badges" - https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/ | CC BY NC SA https://thejeshgn.com/terms-and-conditions/ 
+*The CSS used to create the light weight badges is made by Bryan Fillmer (https://codepen.io/bfillmer) See original (https://codepen.io/bfillmer/pen/rNWWBz) Where permissions are expressed 
+* The JSON instructions is explaned in "How to Create and Issue Open Badges" - https://thejeshgn.com/2022/07/21/how-to-create-and-issue-open-badges/ | 
+CC BY NC SA https://thejeshgn.com/terms-and-conditions/ 
+
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
