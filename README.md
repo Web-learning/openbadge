@@ -25,11 +25,11 @@ Derek Moore | @web-learning
 
 ## 4 This openbadge page is to document my process 
 
-|  🗃️     |              Lesson Link              |                       Concepts Taught                       |                     Learning Goal                 |                             
+|  🗃️     |              Step /  Link              |                       Concepts Taught                       |                     Development Goal                 |                             
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 01 | Created a light weight badge |  | | 
-| 02 | Created JSON files to capture badge information |  | | 
-| 03 | Insert the data expressed in the JSON file into the light weight badge |  | | 
+| 01 | Light weight badge created with CSS | Bryan Fillmer has a great example https://codepen.io/bfillmer/pen/rNWWBz | A lightweight badge that can be modified | 
+| 02 | JSON files that capture badge information | WebDevSimplified has got a good primer on YouTube  | To fetch in data from a separate json file  | 
+| 03 | Go recursivly through the whole JSON file into the light weight badge |  | | 
 
 
    
