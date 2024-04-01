@@ -12,9 +12,10 @@
 
 
 # Open Badges 
-* Welcome to this Open Badges page. 
-* Badge issuing systems have expensive subscriptioon models
-* Badge backpacka arenot available for those to be stored on in South Africa (as far as I know) 
+
+> Open Badges do not serve the majority world. 
+* Badge issuing systems have expensive subscription models
+* Badge backpacka arenot available for those to be stored on in South Africa (as far as I know) and other african countries 
 
 ## This openbadge page is to gather resources around open badges and json  
 
