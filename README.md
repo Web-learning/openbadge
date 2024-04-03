@@ -26,9 +26,9 @@
 
 ## 4 This section is to document my progress 
 
-|  🗃️     |              Step /  Link              |                       Concepts Taught                       |                     Development Goal                 |                             
+|  🗃️     |              Concept              |                       Concepts and Examplars                       |                     Exemplar                 |                             
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 01 | Light weight badge created with CSS | Bryan Fillmer has a great example https://codepen.io/bfillmer/pen/rNWWBz. I also got CHAT GPT to help me out https://codepen.io/Web-learning-the-bold/pen/OJGjGaG | A lightweight badge that can be modified | 
+| 01 | Light weight badge created with CSS | Bryan Fillmer has a great example https://codepen.io/bfillmer/pen/rNWWBz. I also got CHAT GPT to help me out https://codepen.io/Web-learning-the-bold/pen/OJGjGaG | A lightweight badge in CSS that can be modified https://weblearning.co.za/badges/test/| 
 | 02 | JSON files that capture badge information | WebDevSimplified has got a good primer on YouTube  | To fetch in data from a separate json file www.webdevsimplified.com. I liked this codepen that pulled in JSOn data from https://codepen.io/stevenventimiglia/pen/GEEoPe | 
 | 03 | Go recursivly through the whole JSON file into the light weight badge | Good avice to put JSON file in a gist and link to the raw file. See https://forum.freecodecamp.org/t/how-do-i-add-the-local-json-file-in-fetch-api-in-codepen/274890| | 
 
