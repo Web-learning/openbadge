@@ -1,3 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Open Badges!</title>
+    <style>
+/* Credit to Bryan Fillmer https://codepen.io/bfillmer
+      
+Copyright (c) 2024 by Bryan Fillmer (https://codepen.io/bfillmer/pen/rNWWBz)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+      
+      
+     
+      */
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/droidserif/v19/tDbI2oqRg1oM3QBjjcaDkOr9rAA.ttf) format('truetype');
+}
+body {
+  padding: 5em;
+  background-color: #f4f4f4;
+0}
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Bitter', serif;
+  font-weight: 700;}
+.structure {
+  width: 250px;
+  float: left;
+}
+.badge-one-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 3;
+  width: 150px;
+  height: 150px;
+  margin-left: -80px;
+  margin-top: -80px;
+  background-color: #665136;
+  border: 5px solid #e9d2a3;
+  border-radius: 150px;
+}
+.badge-one-content h2 {
+  position: absolute;
+  top: 15px;
+  left: 50%;
+  z-index: 3;
+  width: 150px;
+  margin-top: 0;
+  margin-left: -75px;
+  padding: 0;
+  font-family: 'Droid Serif', serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 2em;
+  color: #665136;
+}
+.badge-one-content h3 {
+  box-sizing: border-box;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 140px;
+  height: 75px;
+  margin: 0;
+  padding-top: 40px;
+  font-size: 1.65em;
+  letter-spacing: 0.05em;
+  color: #6aa388;
+  background-color: #fff;
+  border-radius: 150px 150px 0 0;
+}
+.badge-one-content h3 span {
+  color: #e9d2a3;
+}
+.badge-one-border {
+  width: 150px;
+  height: 150px;
+  background-color: #478266;
+  border-radius: 9px;
+  position: relative;
+  text-align: center;
+}
+.badge-one-border:before,
+.badge-one-border:after {
+  width: 150px;
+  height: 150px;
+  background-color: #478266;
+  border-radius: 9px;
+  z-index: -1;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.badge-one-border:before {
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+}
+.badge-one-border:after {
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  -ms-transform: rotate(60deg);
+  -o-transform: rotate(60deg);
+}
+
+ body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h2, h3 {
+  font-weight: 100 !important;
+}
+
+#ribbon,
+#ribbon:before,
+#ribbon:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#ribbon {
+  background: #6aa388;
+  position: relative;
+  color: white;
+  display: inline-block;
+  padding: .5em 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+#ribbon:before, #ribbon:after {
+  background: #478266;
+  position: absolute;
+  top: .6em;
+  content: ' ';
+  height: 0;
+  border: 1.05em solid transparent;
+  border-left: .9em solid white;
+}
+#ribbon:before {
+  left: -1.85em;
+}
+#ribbon:after {
+  right: -1.85em;
+  transform: rotate(180deg);
+}
+
+
+
+      
+  .container
+{
+  display:flex;
+  justify-content:center;
+  background-color:#FFF;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ .sub-container
+{
+  width:100%;
+  height:max-content;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap: wrap; 
+}
+
+  .description {
+
+   width:100%;
+  height:max-content;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap: wrap; 
+}      
+      
+    </style>
+    <style><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" ></style>
+  </head>
   <body>
     <div class="container">
       <div class="row">
@@ -12,22 +218,38 @@
     <div class="row">
       <div class="col">
         <div class="col-lg-4">
-          <h2>INSERT NAME</h2>
-          <h2 class="bb-year-end-ribbon">Recognition Steward</h2>
+          <h2 id="city"></h2>
+          <h2 id="ribbon"></h2>
         </div>
       </div>
     </div>
     <div class="sub-container">
       <div class="badge-one-border">
         <div class="badge-one-content">
-          <h2>100%</h2>
+          <h2 id="age"></h2>
           <h3>brand <span>Quality</span></h3>
         </div>
       </div>
     </div>
     <div class="row"> -</div>
-    <div class="description"> This "recognition steward" badge has been awarded
-      to the above candidate, as an acknowledgement for all the hard work put
-      into [outline what has been achieved] </div>
+    <div class="description"> This <b id="ribbon_name"></b> badge has been
+      awarded to the above candidate, as an acknowledgement for all the hard
+      work put into [outline what has been achieved] </div>
     <footer></footer>
+    <script>
+const xmlhttp = new XMLHttpRequest();
+xmlhttp.onload = function() {
+  const myObj = JSON.parse(this.responseText);
+  document.getElementById("ribbon").innerHTML = myObj.ribbon;
+  document.getElementById("ribbon_name").innerHTML = myObj.ribbon;
+  document.getElementById("age").innerHTML = myObj.age;
+document.getElementById("city").innerHTML = myObj.city;
+  
+  
+  
+}
+xmlhttp.open("GET", "json_demo.txt");
+xmlhttp.send();
+</script>
   </body>
+</html>
